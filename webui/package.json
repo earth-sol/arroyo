@@ -42,7 +42,7 @@
     "downshift": "^8.5.0",
     "formik": "^2.4.6",
     "framer-motion": "^10.18.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "metrics-graphics": "3.0.0-beta1",
     "monaco-editor": "^0.34.1",
     "monaco-sql-languages": "^0.9.5",
